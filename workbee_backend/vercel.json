@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/workbee_backend/wsgi.py"
+    }
+  ]
+}
